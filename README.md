@@ -43,7 +43,7 @@
 
 ## 🚀 Quick Start
 
-```bash
+
 
 # Install dependencies
 pip install numpy matplotlib seaborn pandas scipy jupyter
